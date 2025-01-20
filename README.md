@@ -2,15 +2,15 @@
 
 
 ### ***Refferences***
--[Github](https://gist.github.com/Jekins/2bf2d0638163f1294637)
--[Youtube](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
+    -[Github](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+    -[Youtube](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 
 ### **Image**
 ![Good image](./image.png)
 
-\```
+```
 print("Hello Md")
-\```
+```
 
 ### Main commands
 | Code | Function |
