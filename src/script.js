@@ -1,3 +1,3 @@
-function hello() {
-    alert("hello world");
+function helloGit() {
+    console.log("hello world");
 }
